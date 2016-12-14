@@ -8,3 +8,4 @@ Git has a mutable index called stage.
 Creating a new branch is quick.
 
 branch dev for testing merge.
+test dev for testing merge.
